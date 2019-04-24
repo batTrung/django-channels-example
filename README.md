@@ -1,4 +1,4 @@
-# 
+# Hướng Dẫn Dùng Channels Tạo Ứng Dụng Real-Time Trong Django
 
 <a target="_blank" href="https://www.djangobat.com/blog/huong-dan-dung-channels-tao-ung-dung-real-time-trong-django/"><img src="https://www.djangobat.com/media/posts/2019/04/23/channels.jpg" alt="" /></a>
 
